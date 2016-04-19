@@ -1,0 +1,6 @@
+.flooignore
+node_modules
+build
+.DS_STORE
+config.js
+
